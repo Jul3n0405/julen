@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ikaslea
- *
- */
-module githubtest {
-}
